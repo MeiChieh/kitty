@@ -1,0 +1,4 @@
+openai
+pyarrow
+streamlit-chat
+streamlit
